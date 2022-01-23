@@ -78,7 +78,16 @@
       Tervezték az Ábrák, hogy jól illeszkedjen a GNOME asztalhoz, és kihasználja az
       OpenGL-t használó modern hardverek előnyeit.
     </p>
-
+    <p xml:lang="it">
+      Plots permette facilmente di visualizzare funzioni matematiche. In aggiunta alle
+      operazioni aritmetiche di base, il programma supporta le funzioni trigonometriche,
+      iperboliche, esponenziali e logaritmiche, così come sommatorie e produttorie. 
+      Può mostrare equazioni polari ed equazioni cartesiane sia implicite sia esplicite.
+    </p>
+    <p xml:lang="it">
+      Plots è progettato per integrarsi bene con GNOME e sfrutta i vantaggi
+      dell'hardware moderno utilizzando OpenGL.
+    </p>
   </description>
 
   <launchable type="desktop-id">com.github.alexhuntley.Plots.desktop</launchable>
